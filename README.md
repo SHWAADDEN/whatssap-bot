@@ -1,3 +1,3 @@
 # whatssap-bot
-A Whatssap Bot Where You Can Type A Specific Message To A Specific Contact 
+THIS APPLICATION IS CREATED WITH PYTHON AND SELLERIUM , TKINTER
 IF THERE'S ANY PROBLEM TEXT ME 
